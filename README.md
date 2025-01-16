@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isuru Lakshan</h1>
-<h3 align="center">A passionate Crafting Code, Building Solutions, Learning Every Day.</h3>
+<h3 align="center""Passionate Developer | Problem Solver | Lifelong Learner"</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ilwijewardhana&label=Profile%20views&color=0e75b6&style=flat" alt="ilwijewardhana" /> </p>
 
@@ -9,7 +9,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **MERN**
 
 - :technologist: I love using Software as a solution for every `Problem`
   
@@ -30,11 +30,9 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
----
+---  
 
-<p align="left">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ILWijewardhana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>  
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ILWijewardhana&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+![Isuru's github stats](https://github-readme-stats.vercel.app/api?username=ILWijewardhana&show_icons=true&theme=tokyonight) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILWijewardhana&theme=tokyonight)        ![Github Stars](https://github-readme-stats.vercel.app/api?username=ILWijewardhana&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) 
+
